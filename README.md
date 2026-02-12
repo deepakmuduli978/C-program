@@ -1,3 +1,5 @@
 # C-program
-Collection of C programming basics, examples, and practice problems.
-1.Day 1:Display "Hello World!" Using c language.
+1.factorial of a number.(5!=5*4*3*2*1)
+2.even or odd of a number.(2,4,6,8..(even) or 3,5,7,9..(odd))
+3.fibonaci series.(0,1,1,2,3,5,8,12,20...)
+4.Special number.(ex:145 then 1!+4!+5!=145 then this is called special number.)
